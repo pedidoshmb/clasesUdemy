@@ -3,19 +3,5 @@ body{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
-<<<<<<< HEAD
-=======
-#cabecera{
-    background: #33a;
-    box-shadow: 0px 5px 30px 0px rgba(red, green, blue, alpha);
-    color: white;
-    font-weight: bold;
-    margin: 0;
-    padding: 0.5em;
-}
-#container{
-    width: 70%;
-    padding: 0;
-    text-align: left;
-}
->>>>>>> cabecera
+
+
